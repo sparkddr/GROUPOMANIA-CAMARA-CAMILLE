@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/sparkddr/OPCP7CamaraBackend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/sparkddr/OCP7CAMARAFRONT.git
