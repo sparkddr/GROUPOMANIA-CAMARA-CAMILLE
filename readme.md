@@ -22,7 +22,7 @@ Rentrer les commandes suivantes pour initialiser les submodules :
 ```
 
 ```bash
-  git submodule update
+  git submodule update --remote
 ```
 
 Suivre les instructions dans le readme.md du dossier backend puis frontend
