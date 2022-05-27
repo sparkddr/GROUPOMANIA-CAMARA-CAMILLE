@@ -14,4 +14,15 @@ Réseau social interne de l'entreprise GROUPOMANIA
 
 ## Installation
 
-Cloner le repository sur votre ordinateur puis suivre les instructions dans le dossier backend puis frontend
+Cloner le repository sur votre ordinateur
+Rentrer les commandes suivantes pour initialiser les submodules :
+
+```bash
+  git submodule init
+```
+
+```bash
+  git submodule update
+```
+
+Suivre les instructions dans le readme.md du dossier backend puis frontend
