@@ -19,6 +19,7 @@ Réseau social interne de l'entreprise GROUPOMANIA
 ## Installation
 
 Cloner le repository sur votre ordinateur
+
 Rentrer les commandes suivantes pour initialiser les submodules :
 
 ```bash
